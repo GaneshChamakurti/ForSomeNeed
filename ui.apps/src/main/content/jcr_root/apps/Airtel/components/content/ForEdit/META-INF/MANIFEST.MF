@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Content-Package-Roots: /apps/Airtel/components/content/ForEdit
+Content-Package-Type: application
+Content-Package-Id: airtel:ForEdit
+
